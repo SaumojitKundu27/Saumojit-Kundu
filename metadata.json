@@ -1,0 +1,5 @@
+{
+  "name": "Study Buddy",
+  "description": "A Tinder-style matching web application for students to find study partners and create study groups.",
+  "requestFramePermissions": []
+}
